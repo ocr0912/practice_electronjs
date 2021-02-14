@@ -1,0 +1,23 @@
+{
+  "name": "practice_electronjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocr0912/practice_electronjs.git"
+  },
+  "author": "chanran oh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocr0912/practice_electronjs/issues"
+  },
+  "homepage": "https://github.com/ocr0912/practice_electronjs#readme",
+  "devDependencies": {
+    "electron": "^11.2.3"
+  }
+}
